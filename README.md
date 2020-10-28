@@ -24,7 +24,7 @@ apt-get install python3.8 python3.8-venv python3-pip
 
 To clone a fresh copy of the repo, use the command:  
 ```bash
-git clone 
+git clone https://github.com/eric-chew/dvoid
 ```  
 
 Then change your current working directory into the project:  
