@@ -29,7 +29,7 @@ git clone
 
 Then change your current working directory into the project:  
 ```bash
-cd matchr
+cd dvoid
 ```  
 
 Initialise a virtual environment:  
